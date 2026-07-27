@@ -64,12 +64,14 @@ body{
     text-align:center;
     box-shadow:0 15px 40px rgba(0,0,0,.12);
 }
-
 .welcome-card h1{
-    font-family:'Great Vibes',cursive;
-    font-size:3rem;
-    color:#ff4f91;
-    margin-bottom:20px;
+    font-family:'Fredoka',sans-serif;
+    ...
+}
+
+.title{
+    font-family:'Fredoka',sans-serif;
+    ...
 }
 
 .welcome-card p{
